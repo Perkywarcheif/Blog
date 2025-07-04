@@ -28,7 +28,7 @@ Perfect for learning Bootstrap, creating your personal blog, or as a starter tem
 ---
 
 ## 🚀 Demo
-👉 [Live Demo](https://yourusername.github.io/repo-name) *(replace with your GitHub Pages link)*  
+👉 [Live Demo](https://perkywarcheif.github.io/Blog/)
 
 ---
 
